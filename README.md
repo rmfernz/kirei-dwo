@@ -25,13 +25,15 @@ How to run
 Download kirei.version.1.0.0.exe from the Releases page and open it. No installation needed.
 
 Data & Privacy
+
 All data is stored locally in kikai_data.json in the same folder as the app. Nothing is sent anywhere. The app works fully offline.
+
 The app autosaves every 5 minutes and saves automatically when you close it.
 
-Built With
+Built With Python 3
 
-Python 3
 Tkinter — GUI
+
 Pillow (PIL) — image handling
 
 License
