@@ -1,5 +1,5 @@
 # kirei-dwo
-kirei 綺麗
+kirei
 digital workflow organizer
 A minimal, offline-first productivity app for students. No accounts. No internet. No clutter.
 
