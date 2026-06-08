@@ -10,10 +10,15 @@ It runs entirely on your local machine. Your data stays on your computer, saved 
 
 Features
 Notebooks — Create multiple notebooks, each with a custom cover image and thumbnail. Write freeform notes, insert images inline, and attach tasks to specific dates using a built-in calendar panel.
+
 Schedule Grid — An editable weekly timetable pre-configured for a standard academic schedule. Add or remove rows as needed.
+
 Calendar — A monthly view where you can add tasks to any date with Low, Medium, or High priority. Tasks show up as colored dots on the calendar.
+
 To-Do List — A simple day-by-day checklist (Mon–Sun) for everyday tasks that don't need a date.
+
 Sidebar — A live clock, this week's upcoming tasks (pulled from both your calendar and notebooks), and quick access to all your notebooks.
+
 Import / Export — Back up your entire workspace to a JSON file and restore it anytime.
 
 How to run
