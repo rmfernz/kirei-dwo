@@ -1,4 +1,4 @@
-# kirei ❀ 綺麗
+# kirei 綺麗
 ### digital workflow organizer
 
 A minimal, offline-first productivity app for students. No accounts. No internet. No clutter.
@@ -25,7 +25,7 @@ It runs entirely on your local machine. Your data stays on your computer, saved 
 
 **Sidebar** — A live clock, this week's upcoming tasks (pulled from both your calendar and notebooks), and quick access to all your notebooks.
 
-**Import / Export** — Back up your entire workspace to a JSON file and restore it at any time.
+**Import / Export** — Back up your entire workspace to a JSON file and restore it anytime.
 
 ---
 
